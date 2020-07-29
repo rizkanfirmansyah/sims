@@ -1,0 +1,1 @@
+<div class="flash-data" data-message="<?= $this->session->flashdata('message'); ?>"></div>
